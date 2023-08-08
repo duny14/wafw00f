@@ -29,6 +29,7 @@ script:
   - wafw00f https://yoxall.me.uk
   # Testing for ModSecurity
   - wafw00f http://celebritytweets.co.za
+  2023/8/9
 
 notifications:
   on_success: change
